@@ -11,31 +11,16 @@
 - ⚡ Fun fact: *I don’t like snakes, yet I’m a Python developer* 🐍😂
 
 ---
+# A2ATunes - Ad-Free Music Player
 
-### 🚀 Featured Project
+A beautiful, fast, and completely **ad-free** music streaming web app built with Next.js and deployed on Vercel.
 
-**A2ATune** — LAN Media Player  
-**Live Demo:** [https://a2atune.vercel.app/](https://a2atune.vercel.app/)
+## Features
+- No ads, no login required
+- High quality streaming (JioSaavn / YouTube support)
+- Playlists, queue, search
+- Mobile friendly + Add to Home Screen
+- [Add your unique features here — downloads, lyrics, dark mode, Hindi songs, etc.]
 
-A simple, fast, and private media player that works on your local network. Play music & videos from one device to all devices in your home without internet.
-
-*(Add a screenshot/GIF here)*
-
-**Tech Stack:** Python • Flask • HTML/CSS/JS
-
----
-
-### 🛠️ Skills
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: Flask, (learning Django & React)
-- **Tools**: Git, Vercel, Linux Basics
-
----
-
-### 📊 GitHub Stats
-
-![Abhiram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhirammdh&show_icons=true&theme=radical)
-
----
-
-Let's build something awesome together! ✨
+## Live Demo
+👉 https://a2atunes.vercel.app   ← (put your exact link here)
